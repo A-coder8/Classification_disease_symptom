@@ -1,4 +1,4 @@
-🧠 Disease Classification with Machine Learning
+# 🧠 Disease Classification with Machine Learning
 
 A Machine Learning classification project that predicts a possible disease based on a set of symptoms.
 
