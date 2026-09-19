@@ -1,0 +1,601 @@
+Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Disease
+cough,nasal_congestion,runny_nose,headache,facial_pain,,,,Sinusitis
+fatigue,high_fever,headache,cough,chills,body_ache,sore_throat,,Influenza
+high_fever,cough,chills,chest_pain,shortness_of_breath,,,,Pneumonia
+shortness_of_breath,fatigue,mild_fever,cough,sputum,,,,Bronchitis
+sore_throat,chills,cough,high_fever,headache,fatigue,body_ache,,Influenza
+cough,sneezing,runny_nose,nasal_congestion,,,,,Allergy
+sputum,shortness_of_breath,chest_pain,fatigue,,,,,Bronchitis
+cough,fatigue,headache,runny_nose,sore_throat,mild_fever,,,Common Cold
+shortness_of_breath,fatigue,high_fever,chest_pain,chills,cough,,,Pneumonia
+chills,fatigue,sore_throat,high_fever,headache,cough,body_ache,,Influenza
+chills,fatigue,cough,chest_pain,,,,,Pneumonia
+cough,sore_throat,nasal_congestion,headache,,,,,Sinusitis
+watery_eyes,itchy_eyes,cough,nasal_congestion,,,,,Allergy
+stomach_cramps,diarrhea,abdominal_pain,nausea,,,,,Gastroenteritis
+cough,headache,sore_throat,runny_nose,fatigue,,,,Common Cold
+abdominal_pain,nausea,stomach_cramps,vomiting,diarrhea,,,,Gastroenteritis
+wheezing,shortness_of_breath,chest_tightness,cough,fatigue,,,,Asthma
+runny_nose,sneezing,cough,watery_eyes,itchy_eyes,nasal_congestion,,,Allergy
+sore_throat,cough,nasal_congestion,runny_nose,headache,facial_pain,,,Sinusitis
+fatigue,cough,high_fever,chest_pain,shortness_of_breath,chills,,,Pneumonia
+chills,cough,headache,high_fever,fatigue,,,,Influenza
+itchy_eyes,sneezing,watery_eyes,nasal_congestion,cough,runny_nose,,,Allergy
+facial_pain,runny_nose,sore_throat,nasal_congestion,cough,headache,,,Sinusitis
+headache,nasal_congestion,runny_nose,facial_pain,,,,,Sinusitis
+shortness_of_breath,sputum,cough,fatigue,,,,,Bronchitis
+cough,sore_throat,facial_pain,headache,,,,,Sinusitis
+chest_pain,fatigue,mild_fever,cough,,,,,Bronchitis
+cough,sore_throat,headache,facial_pain,nasal_congestion,,,,Sinusitis
+chest_pain,fatigue,cough,shortness_of_breath,high_fever,,,,Pneumonia
+diarrhea,vomiting,mild_fever,nausea,stomach_cramps,,,,Gastroenteritis
+cough,itchy_eyes,runny_nose,nasal_congestion,,,,,Allergy
+fever,lower_abdominal_pain,frequent_urination,painful_urination,,,,,Urinary Tract Infection
+fever,lower_abdominal_pain,painful_urination,,,,,,Urinary Tract Infection
+headache,sore_throat,facial_pain,runny_nose,cough,,,,Sinusitis
+mild_fever,cough,sputum,chest_pain,,,,,Bronchitis
+shortness_of_breath,wheezing,fatigue,chest_tightness,,,,,Asthma
+facial_pain,nasal_congestion,cough,headache,runny_nose,sore_throat,,,Sinusitis
+mild_fever,shortness_of_breath,chest_pain,sputum,cough,,,,Bronchitis
+sore_throat,cough,fatigue,sneezing,headache,mild_fever,,,Common Cold
+cough,shortness_of_breath,chest_pain,mild_fever,fatigue,sputum,,,Bronchitis
+vomiting,light_sensitivity,dizziness,nausea,headache,,,,Migraine
+wheezing,chest_tightness,shortness_of_breath,,,,,,Asthma
+cough,watery_eyes,sneezing,nasal_congestion,itchy_eyes,,,,Allergy
+headache,light_sensitivity,dizziness,vomiting,,,,,Migraine
+cough,chest_tightness,shortness_of_breath,,,,,,Asthma
+dizziness,nausea,light_sensitivity,vomiting,headache,sound_sensitivity,,,Migraine
+sore_throat,headache,cough,sneezing,fatigue,,,,Common Cold
+body_ache,headache,chills,fatigue,high_fever,,,,Influenza
+chills,fatigue,cough,shortness_of_breath,chest_pain,,,,Pneumonia
+cough,headache,chills,high_fever,fatigue,body_ache,sore_throat,,Influenza
+sore_throat,cough,body_ache,high_fever,chills,headache,,,Influenza
+dizziness,nausea,sound_sensitivity,headache,vomiting,light_sensitivity,,,Migraine
+frequent_urination,fatigue,fever,,,,,,Urinary Tract Infection
+chest_tightness,fatigue,cough,shortness_of_breath,wheezing,,,,Asthma
+cough,body_ache,headache,fatigue,sore_throat,,,,Influenza
+runny_nose,nasal_congestion,sneezing,itchy_eyes,cough,watery_eyes,,,Allergy
+light_sensitivity,sound_sensitivity,headache,nausea,dizziness,vomiting,,,Migraine
+stomach_cramps,abdominal_pain,nausea,vomiting,,,,,Gastroenteritis
+sneezing,fatigue,runny_nose,sore_throat,mild_fever,,,,Common Cold
+fatigue,headache,cough,runny_nose,sneezing,,,,Common Cold
+shortness_of_breath,chills,high_fever,cough,fatigue,,,,Pneumonia
+fatigue,body_ache,sore_throat,high_fever,chills,headache,,,Influenza
+sound_sensitivity,vomiting,headache,light_sensitivity,dizziness,,,,Migraine
+headache,nausea,dizziness,sound_sensitivity,vomiting,light_sensitivity,,,Migraine
+nausea,vomiting,headache,sound_sensitivity,dizziness,light_sensitivity,,,Migraine
+lower_abdominal_pain,fatigue,frequent_urination,painful_urination,fever,,,,Urinary Tract Infection
+stomach_cramps,diarrhea,nausea,vomiting,abdominal_pain,,,,Gastroenteritis
+watery_eyes,sneezing,runny_nose,nasal_congestion,,,,,Allergy
+chills,chest_pain,high_fever,fatigue,cough,,,,Pneumonia
+sneezing,fatigue,cough,mild_fever,headache,runny_nose,sore_throat,,Common Cold
+headache,mild_fever,cough,sneezing,runny_nose,fatigue,sore_throat,,Common Cold
+cough,sneezing,watery_eyes,itchy_eyes,,,,,Allergy
+nasal_congestion,runny_nose,watery_eyes,itchy_eyes,sneezing,,,,Allergy
+nasal_congestion,cough,runny_nose,sore_throat,headache,facial_pain,,,Sinusitis
+mild_fever,stomach_cramps,vomiting,diarrhea,,,,,Gastroenteritis
+painful_urination,fatigue,frequent_urination,,,,,,Urinary Tract Infection
+chest_pain,sputum,cough,shortness_of_breath,,,,,Bronchitis
+headache,body_ache,high_fever,cough,chills,,,,Influenza
+cough,high_fever,chills,shortness_of_breath,fatigue,,,,Pneumonia
+body_ache,sore_throat,fatigue,chills,headache,,,,Influenza
+vomiting,stomach_cramps,nausea,abdominal_pain,mild_fever,diarrhea,,,Gastroenteritis
+itchy_eyes,runny_nose,nasal_congestion,watery_eyes,,,,,Allergy
+vomiting,sound_sensitivity,nausea,headache,light_sensitivity,,,,Migraine
+watery_eyes,itchy_eyes,sneezing,nasal_congestion,cough,runny_nose,,,Allergy
+fatigue,painful_urination,fever,frequent_urination,lower_abdominal_pain,,,,Urinary Tract Infection
+body_ache,high_fever,chills,headache,fatigue,sore_throat,cough,,Influenza
+dizziness,headache,light_sensitivity,sound_sensitivity,,,,,Migraine
+frequent_urination,lower_abdominal_pain,fatigue,painful_urination,fever,,,,Urinary Tract Infection
+abdominal_pain,vomiting,mild_fever,nausea,diarrhea,stomach_cramps,,,Gastroenteritis
+fatigue,painful_urination,frequent_urination,,,,,,Urinary Tract Infection
+mild_fever,fatigue,cough,chest_pain,,,,,Bronchitis
+headache,high_fever,sore_throat,fatigue,cough,chills,,,Influenza
+chest_pain,high_fever,cough,shortness_of_breath,fatigue,,,,Pneumonia
+mild_fever,sore_throat,runny_nose,sneezing,headache,cough,,,Common Cold
+fever,lower_abdominal_pain,painful_urination,,,,,,Urinary Tract Infection
+fatigue,cough,wheezing,,,,,,Asthma
+cough,watery_eyes,itchy_eyes,sneezing,runny_nose,nasal_congestion,,,Allergy
+nasal_congestion,cough,facial_pain,sore_throat,runny_nose,,,,Sinusitis
+sound_sensitivity,vomiting,headache,nausea,light_sensitivity,dizziness,,,Migraine
+runny_nose,cough,sore_throat,headache,,,,,Sinusitis
+lower_abdominal_pain,fever,fatigue,painful_urination,frequent_urination,,,,Urinary Tract Infection
+headache,dizziness,light_sensitivity,nausea,sound_sensitivity,,,,Migraine
+headache,fatigue,mild_fever,cough,runny_nose,,,,Common Cold
+itchy_eyes,runny_nose,sneezing,nasal_congestion,cough,,,,Allergy
+wheezing,cough,chest_tightness,fatigue,,,,,Asthma
+shortness_of_breath,chest_tightness,wheezing,fatigue,cough,,,,Asthma
+itchy_eyes,sneezing,runny_nose,nasal_congestion,watery_eyes,,,,Allergy
+sore_throat,headache,cough,facial_pain,runny_nose,,,,Sinusitis
+nasal_congestion,itchy_eyes,watery_eyes,cough,runny_nose,sneezing,,,Allergy
+runny_nose,headache,cough,nasal_congestion,facial_pain,,,,Sinusitis
+sneezing,itchy_eyes,runny_nose,nasal_congestion,watery_eyes,,,,Allergy
+fatigue,chest_tightness,shortness_of_breath,cough,,,,,Asthma
+cough,headache,chills,sore_throat,fatigue,body_ache,,,Influenza
+diarrhea,stomach_cramps,mild_fever,vomiting,,,,,Gastroenteritis
+sore_throat,cough,headache,facial_pain,,,,,Sinusitis
+diarrhea,vomiting,abdominal_pain,stomach_cramps,mild_fever,,,,Gastroenteritis
+fever,painful_urination,frequent_urination,fatigue,lower_abdominal_pain,,,,Urinary Tract Infection
+fatigue,wheezing,cough,shortness_of_breath,chest_tightness,,,,Asthma
+high_fever,chest_pain,fatigue,chills,shortness_of_breath,,,,Pneumonia
+cough,shortness_of_breath,sputum,chest_pain,mild_fever,fatigue,,,Bronchitis
+runny_nose,sore_throat,cough,headache,nasal_congestion,facial_pain,,,Sinusitis
+nasal_congestion,cough,runny_nose,sore_throat,headache,,,,Sinusitis
+light_sensitivity,vomiting,headache,sound_sensitivity,dizziness,nausea,,,Migraine
+shortness_of_breath,wheezing,chest_tightness,cough,,,,,Asthma
+mild_fever,shortness_of_breath,fatigue,cough,chest_pain,sputum,,,Bronchitis
+body_ache,chills,fatigue,cough,headache,high_fever,sore_throat,,Influenza
+fever,painful_urination,frequent_urination,fatigue,,,,,Urinary Tract Infection
+cough,shortness_of_breath,high_fever,chills,,,,,Pneumonia
+light_sensitivity,sound_sensitivity,dizziness,nausea,,,,,Migraine
+headache,sore_throat,runny_nose,facial_pain,,,,,Sinusitis
+painful_urination,frequent_urination,fever,,,,,,Urinary Tract Infection
+sore_throat,chills,body_ache,high_fever,headache,,,,Influenza
+headache,cough,runny_nose,nasal_congestion,,,,,Sinusitis
+dizziness,headache,nausea,sound_sensitivity,light_sensitivity,vomiting,,,Migraine
+cough,chest_tightness,wheezing,,,,,,Asthma
+cough,chest_tightness,fatigue,shortness_of_breath,wheezing,,,,Asthma
+facial_pain,cough,headache,runny_nose,nasal_congestion,sore_throat,,,Sinusitis
+cough,headache,runny_nose,facial_pain,,,,,Sinusitis
+chills,fatigue,cough,chest_pain,shortness_of_breath,,,,Pneumonia
+fatigue,shortness_of_breath,cough,,,,,,Asthma
+fever,painful_urination,fatigue,frequent_urination,lower_abdominal_pain,,,,Urinary Tract Infection
+chills,high_fever,cough,shortness_of_breath,fatigue,chest_pain,,,Pneumonia
+cough,headache,nasal_congestion,sore_throat,runny_nose,,,,Sinusitis
+mild_fever,nausea,vomiting,diarrhea,stomach_cramps,abdominal_pain,,,Gastroenteritis
+cough,sore_throat,high_fever,fatigue,body_ache,chills,headache,,Influenza
+cough,runny_nose,headache,facial_pain,nasal_congestion,sore_throat,,,Sinusitis
+headache,vomiting,light_sensitivity,sound_sensitivity,nausea,,,,Migraine
+headache,sore_throat,fatigue,body_ache,high_fever,chills,cough,,Influenza
+cough,chest_tightness,fatigue,,,,,,Asthma
+sore_throat,high_fever,headache,body_ache,chills,fatigue,,,Influenza
+stomach_cramps,mild_fever,vomiting,nausea,,,,,Gastroenteritis
+sputum,fatigue,shortness_of_breath,cough,,,,,Bronchitis
+cough,fatigue,shortness_of_breath,chest_tightness,,,,,Asthma
+mild_fever,abdominal_pain,stomach_cramps,vomiting,nausea,diarrhea,,,Gastroenteritis
+mild_fever,cough,fatigue,sputum,chest_pain,,,,Bronchitis
+headache,light_sensitivity,vomiting,nausea,,,,,Migraine
+fever,painful_urination,fatigue,frequent_urination,,,,,Urinary Tract Infection
+chest_tightness,wheezing,cough,,,,,,Asthma
+fatigue,painful_urination,lower_abdominal_pain,frequent_urination,fever,,,,Urinary Tract Infection
+shortness_of_breath,chest_tightness,wheezing,fatigue,,,,,Asthma
+sneezing,mild_fever,headache,runny_nose,sore_throat,,,,Common Cold
+shortness_of_breath,fatigue,cough,chills,high_fever,chest_pain,,,Pneumonia
+runny_nose,watery_eyes,nasal_congestion,cough,itchy_eyes,sneezing,,,Allergy
+runny_nose,watery_eyes,cough,itchy_eyes,,,,,Allergy
+stomach_cramps,diarrhea,mild_fever,vomiting,nausea,abdominal_pain,,,Gastroenteritis
+runny_nose,sneezing,sore_throat,mild_fever,fatigue,headache,,,Common Cold
+fatigue,cough,chest_pain,mild_fever,sputum,,,,Bronchitis
+itchy_eyes,runny_nose,sneezing,cough,,,,,Allergy
+cough,sore_throat,runny_nose,mild_fever,headache,sneezing,fatigue,,Common Cold
+nasal_congestion,watery_eyes,cough,runny_nose,sneezing,,,,Allergy
+frequent_urination,painful_urination,fever,lower_abdominal_pain,fatigue,,,,Urinary Tract Infection
+facial_pain,runny_nose,cough,sore_throat,nasal_congestion,,,,Sinusitis
+shortness_of_breath,chest_pain,cough,mild_fever,sputum,,,,Bronchitis
+facial_pain,headache,cough,nasal_congestion,runny_nose,,,,Sinusitis
+cough,nasal_congestion,watery_eyes,itchy_eyes,sneezing,,,,Allergy
+shortness_of_breath,chest_pain,chills,high_fever,,,,,Pneumonia
+sore_throat,sneezing,mild_fever,runny_nose,fatigue,,,,Common Cold
+lower_abdominal_pain,fatigue,painful_urination,fever,,,,,Urinary Tract Infection
+sore_throat,chills,high_fever,body_ache,cough,headache,,,Influenza
+fatigue,shortness_of_breath,wheezing,chest_tightness,,,,,Asthma
+sputum,cough,shortness_of_breath,fatigue,chest_pain,,,,Bronchitis
+chills,headache,body_ache,high_fever,sore_throat,,,,Influenza
+cough,fatigue,chest_pain,sputum,mild_fever,,,,Bronchitis
+cough,chest_tightness,fatigue,shortness_of_breath,wheezing,,,,Asthma
+headache,nasal_congestion,facial_pain,sore_throat,cough,,,,Sinusitis
+shortness_of_breath,fatigue,cough,chest_pain,chills,high_fever,,,Pneumonia
+fatigue,sore_throat,headache,body_ache,cough,chills,high_fever,,Influenza
+headache,sore_throat,nasal_congestion,cough,,,,,Sinusitis
+sound_sensitivity,nausea,light_sensitivity,dizziness,vomiting,headache,,,Migraine
+chest_pain,cough,chills,high_fever,,,,,Pneumonia
+stomach_cramps,diarrhea,vomiting,mild_fever,abdominal_pain,nausea,,,Gastroenteritis
+fatigue,wheezing,chest_tightness,,,,,,Asthma
+dizziness,vomiting,headache,sound_sensitivity,nausea,,,,Migraine
+shortness_of_breath,chest_tightness,fatigue,,,,,,Asthma
+dizziness,light_sensitivity,headache,vomiting,sound_sensitivity,nausea,,,Migraine
+high_fever,sore_throat,fatigue,headache,cough,chills,body_ache,,Influenza
+nasal_congestion,cough,runny_nose,sneezing,,,,,Allergy
+sore_throat,cough,chills,high_fever,fatigue,,,,Influenza
+chest_tightness,shortness_of_breath,cough,fatigue,,,,,Asthma
+fatigue,chills,cough,sore_throat,body_ache,,,,Influenza
+sputum,chest_pain,fatigue,shortness_of_breath,mild_fever,cough,,,Bronchitis
+lower_abdominal_pain,fever,fatigue,frequent_urination,,,,,Urinary Tract Infection
+fever,painful_urination,frequent_urination,lower_abdominal_pain,,,,,Urinary Tract Infection
+sneezing,runny_nose,sore_throat,cough,fatigue,,,,Common Cold
+stomach_cramps,abdominal_pain,nausea,mild_fever,diarrhea,vomiting,,,Gastroenteritis
+runny_nose,fatigue,sneezing,sore_throat,headache,cough,mild_fever,,Common Cold
+sore_throat,headache,cough,chills,high_fever,body_ache,fatigue,,Influenza
+cough,headache,facial_pain,runny_nose,,,,,Sinusitis
+vomiting,nausea,mild_fever,diarrhea,,,,,Gastroenteritis
+mild_fever,nausea,vomiting,stomach_cramps,abdominal_pain,diarrhea,,,Gastroenteritis
+abdominal_pain,diarrhea,stomach_cramps,vomiting,nausea,mild_fever,,,Gastroenteritis
+runny_nose,cough,fatigue,sore_throat,headache,sneezing,mild_fever,,Common Cold
+frequent_urination,fatigue,fever,,,,,,Urinary Tract Infection
+shortness_of_breath,chest_pain,fatigue,high_fever,cough,chills,,,Pneumonia
+sneezing,itchy_eyes,runny_nose,cough,watery_eyes,nasal_congestion,,,Allergy
+sputum,cough,fatigue,mild_fever,chest_pain,shortness_of_breath,,,Bronchitis
+abdominal_pain,nausea,diarrhea,mild_fever,vomiting,stomach_cramps,,,Gastroenteritis
+headache,nausea,vomiting,light_sensitivity,sound_sensitivity,,,,Migraine
+cough,shortness_of_breath,chest_pain,fatigue,chills,,,,Pneumonia
+headache,fatigue,high_fever,chills,cough,,,,Influenza
+cough,mild_fever,fatigue,sore_throat,runny_nose,headache,sneezing,,Common Cold
+shortness_of_breath,chills,cough,chest_pain,,,,,Pneumonia
+chest_pain,fatigue,cough,shortness_of_breath,sputum,mild_fever,,,Bronchitis
+runny_nose,cough,facial_pain,sore_throat,nasal_congestion,,,,Sinusitis
+cough,headache,fatigue,sneezing,mild_fever,runny_nose,,,Common Cold
+cough,mild_fever,sputum,chest_pain,shortness_of_breath,,,,Bronchitis
+facial_pain,headache,cough,runny_nose,,,,,Sinusitis
+frequent_urination,fatigue,fever,painful_urination,,,,,Urinary Tract Infection
+stomach_cramps,nausea,diarrhea,vomiting,abdominal_pain,,,,Gastroenteritis
+itchy_eyes,sneezing,cough,watery_eyes,,,,,Allergy
+headache,sound_sensitivity,light_sensitivity,vomiting,,,,,Migraine
+cough,shortness_of_breath,chest_tightness,fatigue,,,,,Asthma
+body_ache,sore_throat,high_fever,headache,cough,fatigue,chills,,Influenza
+sore_throat,cough,runny_nose,headache,,,,,Sinusitis
+cough,itchy_eyes,sneezing,runny_nose,watery_eyes,nasal_congestion,,,Allergy
+fatigue,chest_pain,cough,sputum,,,,,Bronchitis
+facial_pain,runny_nose,headache,cough,sore_throat,nasal_congestion,,,Sinusitis
+mild_fever,fatigue,headache,sore_throat,sneezing,runny_nose,cough,,Common Cold
+diarrhea,vomiting,nausea,mild_fever,abdominal_pain,stomach_cramps,,,Gastroenteritis
+vomiting,headache,sound_sensitivity,nausea,light_sensitivity,dizziness,,,Migraine
+vomiting,sound_sensitivity,light_sensitivity,nausea,dizziness,,,,Migraine
+chills,fatigue,headache,body_ache,cough,sore_throat,high_fever,,Influenza
+shortness_of_breath,cough,chest_pain,fatigue,chills,,,,Pneumonia
+sore_throat,high_fever,body_ache,headache,cough,chills,fatigue,,Influenza
+nasal_congestion,sore_throat,facial_pain,cough,,,,,Sinusitis
+diarrhea,nausea,abdominal_pain,vomiting,stomach_cramps,mild_fever,,,Gastroenteritis
+fever,painful_urination,frequent_urination,lower_abdominal_pain,fatigue,,,,Urinary Tract Infection
+fever,lower_abdominal_pain,fatigue,frequent_urination,painful_urination,,,,Urinary Tract Infection
+shortness_of_breath,chest_pain,mild_fever,cough,fatigue,,,,Bronchitis
+mild_fever,shortness_of_breath,chest_pain,cough,sputum,fatigue,,,Bronchitis
+runny_nose,headache,cough,facial_pain,sore_throat,nasal_congestion,,,Sinusitis
+diarrhea,abdominal_pain,mild_fever,stomach_cramps,vomiting,nausea,,,Gastroenteritis
+cough,mild_fever,fatigue,runny_nose,headache,sore_throat,sneezing,,Common Cold
+high_fever,fatigue,cough,chills,,,,,Pneumonia
+high_fever,chest_pain,chills,cough,fatigue,shortness_of_breath,,,Pneumonia
+fatigue,runny_nose,headache,cough,sore_throat,mild_fever,,,Common Cold
+chest_tightness,shortness_of_breath,cough,wheezing,fatigue,,,,Asthma
+vomiting,headache,light_sensitivity,dizziness,sound_sensitivity,,,,Migraine
+dizziness,nausea,light_sensitivity,vomiting,,,,,Migraine
+dizziness,nausea,light_sensitivity,headache,,,,,Migraine
+vomiting,nausea,light_sensitivity,sound_sensitivity,headache,,,,Migraine
+runny_nose,sore_throat,cough,nasal_congestion,headache,,,,Sinusitis
+nasal_congestion,runny_nose,watery_eyes,cough,,,,,Allergy
+vomiting,diarrhea,stomach_cramps,nausea,,,,,Gastroenteritis
+chest_pain,cough,chills,shortness_of_breath,fatigue,,,,Pneumonia
+chest_pain,shortness_of_breath,chills,cough,high_fever,fatigue,,,Pneumonia
+headache,facial_pain,sore_throat,runny_nose,,,,,Sinusitis
+shortness_of_breath,wheezing,fatigue,cough,,,,,Asthma
+shortness_of_breath,chills,chest_pain,fatigue,cough,high_fever,,,Pneumonia
+fatigue,mild_fever,chest_pain,sputum,,,,,Bronchitis
+sneezing,cough,watery_eyes,runny_nose,itchy_eyes,nasal_congestion,,,Allergy
+sore_throat,headache,chills,cough,high_fever,body_ache,,,Influenza
+painful_urination,frequent_urination,fever,lower_abdominal_pain,,,,,Urinary Tract Infection
+mild_fever,shortness_of_breath,sputum,cough,chest_pain,,,,Bronchitis
+nausea,mild_fever,diarrhea,abdominal_pain,,,,,Gastroenteritis
+mild_fever,cough,fatigue,sore_throat,headache,runny_nose,,,Common Cold
+cough,chest_tightness,wheezing,,,,,,Asthma
+shortness_of_breath,cough,mild_fever,fatigue,sputum,chest_pain,,,Bronchitis
+sneezing,runny_nose,cough,watery_eyes,nasal_congestion,,,,Allergy
+cough,nasal_congestion,headache,sore_throat,runny_nose,facial_pain,,,Sinusitis
+itchy_eyes,watery_eyes,nasal_congestion,runny_nose,sneezing,,,,Allergy
+fatigue,shortness_of_breath,chest_pain,cough,chills,high_fever,,,Pneumonia
+runny_nose,cough,nasal_congestion,headache,facial_pain,sore_throat,,,Sinusitis
+light_sensitivity,dizziness,headache,sound_sensitivity,vomiting,,,,Migraine
+fatigue,chest_pain,cough,shortness_of_breath,sputum,mild_fever,,,Bronchitis
+sore_throat,runny_nose,headache,sneezing,cough,,,,Common Cold
+fatigue,shortness_of_breath,cough,chest_tightness,,,,,Asthma
+wheezing,fatigue,cough,chest_tightness,shortness_of_breath,,,,Asthma
+body_ache,cough,fatigue,headache,sore_throat,high_fever,,,Influenza
+watery_eyes,sneezing,nasal_congestion,cough,itchy_eyes,runny_nose,,,Allergy
+painful_urination,frequent_urination,fatigue,,,,,,Urinary Tract Infection
+nausea,mild_fever,abdominal_pain,stomach_cramps,vomiting,diarrhea,,,Gastroenteritis
+diarrhea,nausea,abdominal_pain,stomach_cramps,mild_fever,,,,Gastroenteritis
+runny_nose,sore_throat,headache,mild_fever,fatigue,sneezing,,,Common Cold
+watery_eyes,sneezing,itchy_eyes,cough,,,,,Allergy
+mild_fever,chest_pain,fatigue,sputum,shortness_of_breath,,,,Bronchitis
+vomiting,light_sensitivity,sound_sensitivity,nausea,,,,,Migraine
+vomiting,light_sensitivity,nausea,headache,sound_sensitivity,,,,Migraine
+mild_fever,chest_pain,cough,fatigue,shortness_of_breath,sputum,,,Bronchitis
+cough,shortness_of_breath,wheezing,chest_tightness,fatigue,,,,Asthma
+mild_fever,fatigue,shortness_of_breath,sputum,cough,chest_pain,,,Bronchitis
+stomach_cramps,diarrhea,nausea,vomiting,mild_fever,,,,Gastroenteritis
+shortness_of_breath,wheezing,chest_tightness,fatigue,,,,,Asthma
+cough,chest_pain,chills,fatigue,shortness_of_breath,high_fever,,,Pneumonia
+facial_pain,sore_throat,runny_nose,cough,,,,,Sinusitis
+headache,dizziness,nausea,light_sensitivity,,,,,Migraine
+sore_throat,nasal_congestion,cough,runny_nose,,,,,Sinusitis
+shortness_of_breath,cough,chills,chest_pain,,,,,Pneumonia
+chest_pain,high_fever,cough,fatigue,,,,,Pneumonia
+cough,wheezing,chest_tightness,shortness_of_breath,fatigue,,,,Asthma
+painful_urination,fatigue,fever,,,,,,Urinary Tract Infection
+itchy_eyes,nasal_congestion,cough,runny_nose,,,,,Allergy
+cough,sneezing,fatigue,runny_nose,sore_throat,headache,,,Common Cold
+chills,headache,cough,fatigue,body_ache,,,,Influenza
+chills,high_fever,fatigue,cough,body_ache,,,,Influenza
+fatigue,chills,headache,sore_throat,high_fever,cough,,,Influenza
+headache,nasal_congestion,facial_pain,cough,sore_throat,,,,Sinusitis
+headache,sore_throat,fatigue,chills,cough,high_fever,,,Influenza
+itchy_eyes,sneezing,runny_nose,watery_eyes,nasal_congestion,cough,,,Allergy
+high_fever,sore_throat,fatigue,headache,body_ache,chills,cough,,Influenza
+cough,headache,fatigue,sore_throat,chills,body_ache,,,Influenza
+vomiting,mild_fever,diarrhea,abdominal_pain,nausea,,,,Gastroenteritis
+cough,chills,shortness_of_breath,high_fever,chest_pain,fatigue,,,Pneumonia
+cough,mild_fever,fatigue,shortness_of_breath,sputum,,,,Bronchitis
+fatigue,cough,chest_tightness,wheezing,shortness_of_breath,,,,Asthma
+sputum,shortness_of_breath,cough,fatigue,,,,,Bronchitis
+headache,facial_pain,sore_throat,cough,,,,,Sinusitis
+sneezing,runny_nose,watery_eyes,itchy_eyes,cough,,,,Allergy
+cough,fatigue,sneezing,headache,runny_nose,sore_throat,,,Common Cold
+vomiting,sound_sensitivity,light_sensitivity,headache,nausea,dizziness,,,Migraine
+fatigue,high_fever,chills,chest_pain,shortness_of_breath,,,,Pneumonia
+light_sensitivity,headache,sound_sensitivity,vomiting,nausea,dizziness,,,Migraine
+mild_fever,sputum,fatigue,shortness_of_breath,,,,,Bronchitis
+mild_fever,sputum,shortness_of_breath,fatigue,chest_pain,cough,,,Bronchitis
+sputum,fatigue,chest_pain,cough,,,,,Bronchitis
+sore_throat,nasal_congestion,runny_nose,headache,cough,facial_pain,,,Sinusitis
+fatigue,mild_fever,shortness_of_breath,cough,sputum,,,,Bronchitis
+chest_pain,cough,shortness_of_breath,fatigue,high_fever,chills,,,Pneumonia
+abdominal_pain,stomach_cramps,mild_fever,vomiting,nausea,diarrhea,,,Gastroenteritis
+fatigue,cough,shortness_of_breath,,,,,,Asthma
+high_fever,body_ache,fatigue,cough,chills,sore_throat,,,Influenza
+fatigue,high_fever,chills,shortness_of_breath,cough,,,,Pneumonia
+runny_nose,headache,sore_throat,cough,,,,,Sinusitis
+chest_pain,sputum,mild_fever,cough,shortness_of_breath,,,,Bronchitis
+nausea,sound_sensitivity,vomiting,headache,light_sensitivity,,,,Migraine
+diarrhea,vomiting,abdominal_pain,mild_fever,stomach_cramps,nausea,,,Gastroenteritis
+mild_fever,headache,fatigue,runny_nose,sore_throat,,,,Common Cold
+fatigue,shortness_of_breath,chest_tightness,,,,,,Asthma
+diarrhea,abdominal_pain,stomach_cramps,nausea,mild_fever,vomiting,,,Gastroenteritis
+high_fever,sore_throat,fatigue,body_ache,chills,headache,cough,,Influenza
+runny_nose,fatigue,sore_throat,headache,mild_fever,,,,Common Cold
+fatigue,chest_pain,cough,mild_fever,,,,,Bronchitis
+sound_sensitivity,dizziness,headache,vomiting,nausea,light_sensitivity,,,Migraine
+cough,sore_throat,runny_nose,nasal_congestion,,,,,Sinusitis
+vomiting,stomach_cramps,diarrhea,abdominal_pain,,,,,Gastroenteritis
+frequent_urination,painful_urination,lower_abdominal_pain,fatigue,fever,,,,Urinary Tract Infection
+nasal_congestion,sneezing,cough,runny_nose,,,,,Allergy
+vomiting,light_sensitivity,dizziness,sound_sensitivity,nausea,headache,,,Migraine
+lower_abdominal_pain,fever,painful_urination,fatigue,frequent_urination,,,,Urinary Tract Infection
+fatigue,shortness_of_breath,chills,high_fever,chest_pain,cough,,,Pneumonia
+cough,headache,sore_throat,fatigue,chills,body_ache,,,Influenza
+fatigue,frequent_urination,painful_urination,fever,lower_abdominal_pain,,,,Urinary Tract Infection
+itchy_eyes,sneezing,watery_eyes,runny_nose,nasal_congestion,cough,,,Allergy
+itchy_eyes,watery_eyes,sneezing,nasal_congestion,,,,,Allergy
+headache,cough,chills,body_ache,high_fever,fatigue,sore_throat,,Influenza
+runny_nose,nasal_congestion,cough,sneezing,watery_eyes,itchy_eyes,,,Allergy
+fatigue,cough,shortness_of_breath,mild_fever,,,,,Bronchitis
+nausea,diarrhea,abdominal_pain,mild_fever,stomach_cramps,,,,Gastroenteritis
+headache,sneezing,cough,runny_nose,sore_throat,,,,Common Cold
+wheezing,fatigue,cough,chest_tightness,,,,,Asthma
+cough,runny_nose,facial_pain,sore_throat,headache,nasal_congestion,,,Sinusitis
+sputum,cough,chest_pain,shortness_of_breath,fatigue,,,,Bronchitis
+cough,chest_pain,fatigue,sputum,,,,,Bronchitis
+sneezing,watery_eyes,nasal_congestion,runny_nose,cough,itchy_eyes,,,Allergy
+dizziness,nausea,light_sensitivity,headache,vomiting,,,,Migraine
+lower_abdominal_pain,frequent_urination,fatigue,painful_urination,,,,,Urinary Tract Infection
+frequent_urination,painful_urination,lower_abdominal_pain,,,,,,Urinary Tract Infection
+runny_nose,cough,sore_throat,headache,sneezing,mild_fever,,,Common Cold
+light_sensitivity,vomiting,sound_sensitivity,nausea,,,,,Migraine
+fever,fatigue,painful_urination,frequent_urination,lower_abdominal_pain,,,,Urinary Tract Infection
+runny_nose,nasal_congestion,headache,facial_pain,cough,,,,Sinusitis
+chest_tightness,shortness_of_breath,wheezing,,,,,,Asthma
+sneezing,mild_fever,sore_throat,fatigue,headache,,,,Common Cold
+shortness_of_breath,wheezing,fatigue,chest_tightness,cough,,,,Asthma
+fatigue,frequent_urination,fever,painful_urination,lower_abdominal_pain,,,,Urinary Tract Infection
+headache,runny_nose,nasal_congestion,facial_pain,cough,sore_throat,,,Sinusitis
+vomiting,nausea,abdominal_pain,stomach_cramps,,,,,Gastroenteritis
+mild_fever,vomiting,stomach_cramps,nausea,abdominal_pain,diarrhea,,,Gastroenteritis
+chills,fatigue,chest_pain,shortness_of_breath,high_fever,cough,,,Pneumonia
+nasal_congestion,facial_pain,sore_throat,headache,runny_nose,,,,Sinusitis
+runny_nose,fatigue,mild_fever,cough,sore_throat,headache,,,Common Cold
+watery_eyes,runny_nose,sneezing,nasal_congestion,itchy_eyes,cough,,,Allergy
+shortness_of_breath,chest_pain,high_fever,chills,cough,fatigue,,,Pneumonia
+lower_abdominal_pain,fever,frequent_urination,fatigue,,,,,Urinary Tract Infection
+fatigue,wheezing,cough,shortness_of_breath,chest_tightness,,,,Asthma
+chills,cough,body_ache,high_fever,headache,,,,Influenza
+mild_fever,sputum,chest_pain,shortness_of_breath,fatigue,cough,,,Bronchitis
+chest_pain,fatigue,mild_fever,cough,sputum,shortness_of_breath,,,Bronchitis
+mild_fever,sputum,shortness_of_breath,chest_pain,fatigue,,,,Bronchitis
+runny_nose,nasal_congestion,itchy_eyes,sneezing,watery_eyes,,,,Allergy
+sneezing,mild_fever,runny_nose,headache,sore_throat,,,,Common Cold
+sore_throat,cough,sneezing,fatigue,mild_fever,,,,Common Cold
+chest_pain,cough,fatigue,high_fever,,,,,Pneumonia
+vomiting,sound_sensitivity,dizziness,headache,nausea,,,,Migraine
+sound_sensitivity,light_sensitivity,dizziness,headache,vomiting,nausea,,,Migraine
+diarrhea,stomach_cramps,nausea,abdominal_pain,mild_fever,vomiting,,,Gastroenteritis
+chills,cough,fatigue,shortness_of_breath,,,,,Pneumonia
+fatigue,painful_urination,lower_abdominal_pain,fever,frequent_urination,,,,Urinary Tract Infection
+frequent_urination,fatigue,painful_urination,lower_abdominal_pain,,,,,Urinary Tract Infection
+fatigue,cough,wheezing,,,,,,Asthma
+shortness_of_breath,sputum,cough,chest_pain,fatigue,mild_fever,,,Bronchitis
+nausea,diarrhea,abdominal_pain,stomach_cramps,vomiting,mild_fever,,,Gastroenteritis
+sneezing,nasal_congestion,runny_nose,watery_eyes,itchy_eyes,cough,,,Allergy
+cough,body_ache,high_fever,fatigue,headache,sore_throat,,,Influenza
+body_ache,headache,cough,chills,high_fever,fatigue,,,Influenza
+lower_abdominal_pain,fatigue,fever,,,,,,Urinary Tract Infection
+facial_pain,runny_nose,cough,nasal_congestion,sore_throat,headache,,,Sinusitis
+sneezing,sore_throat,mild_fever,cough,runny_nose,headache,fatigue,,Common Cold
+fatigue,cough,headache,chills,body_ache,high_fever,sore_throat,,Influenza
+runny_nose,sneezing,nasal_congestion,itchy_eyes,,,,,Allergy
+vomiting,nausea,mild_fever,stomach_cramps,diarrhea,abdominal_pain,,,Gastroenteritis
+headache,cough,chills,fatigue,body_ache,high_fever,sore_throat,,Influenza
+diarrhea,abdominal_pain,stomach_cramps,vomiting,,,,,Gastroenteritis
+cough,itchy_eyes,sneezing,watery_eyes,runny_nose,nasal_congestion,,,Allergy
+headache,mild_fever,fatigue,sore_throat,cough,,,,Common Cold
+painful_urination,lower_abdominal_pain,fever,,,,,,Urinary Tract Infection
+sputum,cough,mild_fever,chest_pain,,,,,Bronchitis
+high_fever,cough,shortness_of_breath,chills,,,,,Pneumonia
+nausea,vomiting,abdominal_pain,diarrhea,,,,,Gastroenteritis
+light_sensitivity,sound_sensitivity,vomiting,dizziness,,,,,Migraine
+mild_fever,fatigue,runny_nose,headache,sneezing,,,,Common Cold
+shortness_of_breath,sputum,cough,fatigue,mild_fever,,,,Bronchitis
+fever,painful_urination,fatigue,frequent_urination,lower_abdominal_pain,,,,Urinary Tract Infection
+shortness_of_breath,wheezing,fatigue,cough,,,,,Asthma
+fatigue,cough,high_fever,headache,chills,,,,Influenza
+runny_nose,facial_pain,nasal_congestion,cough,sore_throat,,,,Sinusitis
+cough,headache,chills,fatigue,high_fever,,,,Influenza
+headache,sound_sensitivity,dizziness,vomiting,nausea,,,,Migraine
+shortness_of_breath,high_fever,chills,fatigue,,,,,Pneumonia
+high_fever,chills,chest_pain,shortness_of_breath,,,,,Pneumonia
+frequent_urination,fever,lower_abdominal_pain,fatigue,,,,,Urinary Tract Infection
+fatigue,shortness_of_breath,chills,chest_pain,cough,,,,Pneumonia
+headache,sore_throat,runny_nose,sneezing,fatigue,,,,Common Cold
+light_sensitivity,nausea,dizziness,vomiting,headache,,,,Migraine
+fatigue,runny_nose,headache,sneezing,sore_throat,,,,Common Cold
+cough,headache,sore_throat,nasal_congestion,facial_pain,runny_nose,,,Sinusitis
+cough,fatigue,shortness_of_breath,wheezing,chest_tightness,,,,Asthma
+sneezing,mild_fever,cough,fatigue,headache,,,,Common Cold
+itchy_eyes,sneezing,nasal_congestion,runny_nose,cough,,,,Allergy
+body_ache,fatigue,chills,sore_throat,cough,headache,,,Influenza
+headache,sore_throat,body_ache,fatigue,high_fever,chills,cough,,Influenza
+diarrhea,stomach_cramps,mild_fever,abdominal_pain,vomiting,nausea,,,Gastroenteritis
+wheezing,cough,fatigue,shortness_of_breath,,,,,Asthma
+vomiting,stomach_cramps,diarrhea,nausea,,,,,Gastroenteritis
+fatigue,sputum,cough,mild_fever,chest_pain,shortness_of_breath,,,Bronchitis
+nasal_congestion,headache,cough,runny_nose,,,,,Sinusitis
+shortness_of_breath,cough,wheezing,fatigue,chest_tightness,,,,Asthma
+fatigue,sputum,cough,chest_pain,mild_fever,shortness_of_breath,,,Bronchitis
+facial_pain,cough,nasal_congestion,sore_throat,headache,runny_nose,,,Sinusitis
+mild_fever,sneezing,fatigue,sore_throat,runny_nose,,,,Common Cold
+painful_urination,fever,fatigue,lower_abdominal_pain,frequent_urination,,,,Urinary Tract Infection
+sputum,shortness_of_breath,mild_fever,cough,fatigue,,,,Bronchitis
+chills,shortness_of_breath,cough,chest_pain,high_fever,fatigue,,,Pneumonia
+sneezing,itchy_eyes,runny_nose,watery_eyes,nasal_congestion,,,,Allergy
+headache,facial_pain,nasal_congestion,runny_nose,sore_throat,cough,,,Sinusitis
+mild_fever,fatigue,cough,shortness_of_breath,chest_pain,,,,Bronchitis
+watery_eyes,itchy_eyes,nasal_congestion,runny_nose,sneezing,,,,Allergy
+cough,facial_pain,runny_nose,sore_throat,headache,,,,Sinusitis
+shortness_of_breath,cough,fatigue,high_fever,,,,,Pneumonia
+nasal_congestion,cough,itchy_eyes,watery_eyes,,,,,Allergy
+wheezing,shortness_of_breath,fatigue,chest_tightness,,,,,Asthma
+frequent_urination,fever,fatigue,painful_urination,,,,,Urinary Tract Infection
+runny_nose,nasal_congestion,cough,sneezing,,,,,Allergy
+cough,runny_nose,headache,sore_throat,sneezing,mild_fever,,,Common Cold
+lower_abdominal_pain,painful_urination,fatigue,,,,,,Urinary Tract Infection
+shortness_of_breath,chest_tightness,wheezing,cough,fatigue,,,,Asthma
+mild_fever,sneezing,sore_throat,headache,fatigue,cough,,,Common Cold
+shortness_of_breath,cough,chest_tightness,fatigue,wheezing,,,,Asthma
+sound_sensitivity,nausea,dizziness,light_sensitivity,,,,,Migraine
+cough,chest_pain,high_fever,chills,fatigue,,,,Pneumonia
+fatigue,cough,sneezing,runny_nose,headache,mild_fever,,,Common Cold
+stomach_cramps,diarrhea,mild_fever,nausea,vomiting,,,,Gastroenteritis
+nausea,vomiting,headache,light_sensitivity,sound_sensitivity,dizziness,,,Migraine
+chills,high_fever,sore_throat,headache,body_ache,,,,Influenza
+sound_sensitivity,headache,light_sensitivity,vomiting,,,,,Migraine
+sore_throat,sneezing,headache,fatigue,runny_nose,cough,,,Common Cold
+high_fever,chest_pain,cough,fatigue,shortness_of_breath,,,,Pneumonia
+sound_sensitivity,vomiting,light_sensitivity,dizziness,nausea,,,,Migraine
+shortness_of_breath,chest_pain,cough,high_fever,,,,,Pneumonia
+fatigue,frequent_urination,painful_urination,fever,,,,,Urinary Tract Infection
+chills,chest_pain,high_fever,shortness_of_breath,cough,,,,Pneumonia
+stomach_cramps,mild_fever,abdominal_pain,diarrhea,vomiting,nausea,,,Gastroenteritis
+fatigue,wheezing,cough,,,,,,Asthma
+sore_throat,headache,cough,facial_pain,,,,,Sinusitis
+mild_fever,runny_nose,sneezing,headache,sore_throat,,,,Common Cold
+high_fever,cough,chest_pain,shortness_of_breath,fatigue,,,,Pneumonia
+nasal_congestion,cough,headache,facial_pain,,,,,Sinusitis
+fatigue,chest_pain,cough,chills,,,,,Pneumonia
+headache,body_ache,cough,sore_throat,fatigue,high_fever,chills,,Influenza
+painful_urination,lower_abdominal_pain,fatigue,,,,,,Urinary Tract Infection
+frequent_urination,painful_urination,lower_abdominal_pain,fever,fatigue,,,,Urinary Tract Infection
+light_sensitivity,vomiting,nausea,headache,dizziness,,,,Migraine
+runny_nose,fatigue,mild_fever,headache,cough,sore_throat,sneezing,,Common Cold
+cough,wheezing,fatigue,,,,,,Asthma
+dizziness,vomiting,light_sensitivity,nausea,headache,,,,Migraine
+body_ache,sore_throat,fatigue,chills,headache,,,,Influenza
+sputum,shortness_of_breath,chest_pain,mild_fever,cough,,,,Bronchitis
+nasal_congestion,headache,runny_nose,cough,sore_throat,,,,Sinusitis
+headache,sore_throat,mild_fever,runny_nose,fatigue,sneezing,cough,,Common Cold
+fatigue,sputum,mild_fever,shortness_of_breath,,,,,Bronchitis
+stomach_cramps,mild_fever,nausea,vomiting,abdominal_pain,,,,Gastroenteritis
+cough,watery_eyes,nasal_congestion,itchy_eyes,runny_nose,,,,Allergy
+frequent_urination,painful_urination,lower_abdominal_pain,fever,,,,,Urinary Tract Infection
+nasal_congestion,cough,itchy_eyes,watery_eyes,,,,,Allergy
+headache,mild_fever,fatigue,cough,runny_nose,,,,Common Cold
+wheezing,shortness_of_breath,cough,fatigue,,,,,Asthma
+headache,mild_fever,runny_nose,cough,fatigue,sore_throat,sneezing,,Common Cold
+painful_urination,fever,fatigue,,,,,,Urinary Tract Infection
+light_sensitivity,headache,nausea,dizziness,sound_sensitivity,vomiting,,,Migraine
+diarrhea,abdominal_pain,nausea,mild_fever,stomach_cramps,,,,Gastroenteritis
+mild_fever,nausea,abdominal_pain,vomiting,diarrhea,,,,Gastroenteritis
+wheezing,cough,shortness_of_breath,fatigue,chest_tightness,,,,Asthma
+frequent_urination,painful_urination,fatigue,lower_abdominal_pain,fever,,,,Urinary Tract Infection
+itchy_eyes,nasal_congestion,watery_eyes,cough,,,,,Allergy
+shortness_of_breath,wheezing,cough,fatigue,chest_tightness,,,,Asthma
+headache,sound_sensitivity,vomiting,light_sensitivity,dizziness,,,,Migraine
+abdominal_pain,nausea,stomach_cramps,mild_fever,vomiting,,,,Gastroenteritis
+cough,fatigue,shortness_of_breath,chest_pain,chills,,,,Pneumonia
+nasal_congestion,headache,runny_nose,facial_pain,,,,,Sinusitis
+dizziness,light_sensitivity,headache,nausea,vomiting,sound_sensitivity,,,Migraine
+sound_sensitivity,light_sensitivity,dizziness,headache,,,,,Migraine
+vomiting,mild_fever,diarrhea,abdominal_pain,stomach_cramps,,,,Gastroenteritis
+stomach_cramps,diarrhea,mild_fever,nausea,abdominal_pain,vomiting,,,Gastroenteritis
+diarrhea,mild_fever,nausea,vomiting,,,,,Gastroenteritis
+chills,high_fever,sore_throat,headache,fatigue,cough,body_ache,,Influenza
+fatigue,chest_tightness,cough,wheezing,shortness_of_breath,,,,Asthma
+fatigue,chest_tightness,wheezing,cough,shortness_of_breath,,,,Asthma
+headache,body_ache,cough,sore_throat,fatigue,high_fever,chills,,Influenza
+cough,fatigue,chest_tightness,wheezing,shortness_of_breath,,,,Asthma
+cough,shortness_of_breath,high_fever,chest_pain,,,,,Pneumonia
+sore_throat,cough,headache,body_ache,fatigue,,,,Influenza
+fatigue,painful_urination,frequent_urination,lower_abdominal_pain,fever,,,,Urinary Tract Infection
+nausea,sound_sensitivity,dizziness,headache,light_sensitivity,,,,Migraine
+fatigue,sneezing,mild_fever,runny_nose,sore_throat,headache,cough,,Common Cold
+sore_throat,high_fever,chills,cough,fatigue,body_ache,,,Influenza
+vomiting,abdominal_pain,stomach_cramps,mild_fever,,,,,Gastroenteritis
+itchy_eyes,runny_nose,cough,nasal_congestion,watery_eyes,sneezing,,,Allergy
+vomiting,abdominal_pain,mild_fever,stomach_cramps,diarrhea,,,,Gastroenteritis
+dizziness,sound_sensitivity,vomiting,nausea,headache,light_sensitivity,,,Migraine
+cough,watery_eyes,sneezing,nasal_congestion,runny_nose,,,,Allergy
+diarrhea,stomach_cramps,mild_fever,nausea,abdominal_pain,,,,Gastroenteritis
+runny_nose,fatigue,sore_throat,sneezing,headache,mild_fever,cough,,Common Cold
+chest_pain,cough,shortness_of_breath,high_fever,chills,,,,Pneumonia
+chest_pain,fatigue,cough,shortness_of_breath,,,,,Pneumonia
+headache,runny_nose,mild_fever,sore_throat,cough,sneezing,fatigue,,Common Cold
+fever,lower_abdominal_pain,frequent_urination,fatigue,,,,,Urinary Tract Infection
+frequent_urination,lower_abdominal_pain,painful_urination,fatigue,fever,,,,Urinary Tract Infection
+painful_urination,frequent_urination,fever,,,,,,Urinary Tract Infection
+headache,high_fever,chills,sore_throat,fatigue,cough,,,Influenza
+sore_throat,cough,sneezing,runny_nose,mild_fever,,,,Common Cold
+chills,shortness_of_breath,high_fever,chest_pain,fatigue,,,,Pneumonia
+vomiting,dizziness,light_sensitivity,headache,,,,,Migraine
+stomach_cramps,nausea,mild_fever,diarrhea,abdominal_pain,,,,Gastroenteritis
+painful_urination,lower_abdominal_pain,frequent_urination,fatigue,fever,,,,Urinary Tract Infection
+cough,shortness_of_breath,high_fever,chest_pain,chills,fatigue,,,Pneumonia
+cough,sneezing,watery_eyes,itchy_eyes,runny_nose,,,,Allergy
+light_sensitivity,dizziness,headache,sound_sensitivity,nausea,vomiting,,,Migraine
+shortness_of_breath,fatigue,wheezing,,,,,,Asthma
+headache,fatigue,sore_throat,cough,mild_fever,sneezing,,,Common Cold
+shortness_of_breath,chest_tightness,cough,,,,,,Asthma
+abdominal_pain,mild_fever,vomiting,stomach_cramps,nausea,,,,Gastroenteritis
+shortness_of_breath,chest_pain,cough,mild_fever,,,,,Bronchitis
+runny_nose,nasal_congestion,itchy_eyes,watery_eyes,,,,,Allergy
+vomiting,nausea,headache,dizziness,light_sensitivity,sound_sensitivity,,,Migraine
+cough,fatigue,chest_tightness,shortness_of_breath,wheezing,,,,Asthma
+fatigue,fever,frequent_urination,lower_abdominal_pain,,,,,Urinary Tract Infection
+fever,frequent_urination,fatigue,,,,,,Urinary Tract Infection
+runny_nose,sore_throat,sneezing,headache,fatigue,,,,Common Cold
+lower_abdominal_pain,fever,fatigue,frequent_urination,painful_urination,,,,Urinary Tract Infection
+mild_fever,shortness_of_breath,fatigue,cough,,,,,Bronchitis
+mild_fever,cough,shortness_of_breath,chest_pain,fatigue,,,,Bronchitis
+fatigue,cough,mild_fever,chest_pain,,,,,Bronchitis
+body_ache,chills,cough,high_fever,sore_throat,fatigue,headache,,Influenza
+dizziness,vomiting,nausea,sound_sensitivity,headache,light_sensitivity,,,Migraine
+watery_eyes,nasal_congestion,sneezing,runny_nose,itchy_eyes,cough,,,Allergy
+cough,wheezing,chest_tightness,fatigue,,,,,Asthma
+painful_urination,frequent_urination,fever,fatigue,,,,,Urinary Tract Infection
+chest_pain,high_fever,cough,fatigue,,,,,Pneumonia
+runny_nose,sore_throat,mild_fever,sneezing,cough,fatigue,headache,,Common Cold
+mild_fever,sputum,chest_pain,cough,fatigue,shortness_of_breath,,,Bronchitis
+mild_fever,sneezing,fatigue,headache,runny_nose,sore_throat,cough,,Common Cold
+itchy_eyes,cough,sneezing,watery_eyes,nasal_congestion,,,,Allergy
+mild_fever,diarrhea,stomach_cramps,vomiting,nausea,,,,Gastroenteritis
+fatigue,runny_nose,mild_fever,sneezing,headache,cough,,,Common Cold
+nasal_congestion,sneezing,watery_eyes,runny_nose,itchy_eyes,,,,Allergy
+mild_fever,shortness_of_breath,cough,sputum,fatigue,,,,Bronchitis
+wheezing,shortness_of_breath,cough,fatigue,chest_tightness,,,,Asthma
+nausea,diarrhea,abdominal_pain,stomach_cramps,,,,,Gastroenteritis
+shortness_of_breath,high_fever,chills,cough,chest_pain,,,,Pneumonia
+fever,frequent_urination,lower_abdominal_pain,painful_urination,,,,,Urinary Tract Infection
