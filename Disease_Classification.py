@@ -35,6 +35,6 @@ print("score:", metrics.accuracy_score(test_y, yhat))
 
 # test with your Data
 n = len(symptom_cols)
-prediction_array = mlb.transform([["cough","runny_nose","headache"]]) # example
-prediction = model.predict(prediction_array)
+new_x = mlb.transform([["cough","runny_nose","headache"]]) # example
+prediction = model.predict(new_x)
 print("model Answer:",prediction[0])
