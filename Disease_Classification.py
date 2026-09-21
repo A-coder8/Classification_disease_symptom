@@ -10,6 +10,7 @@ import pandas as pd
 my_File = pd.read_csv("disease_symptom_600_text.csv")
 my_File.head()
 
+# set X and Y
 symptom_cols = ["Symptom_1","Symptom_2","Symptom_3","Symptom_4","Symptom_5","Symptom_6","Symptom_7","Symptom_8"]
 
 symptoms = my_File[symptom_cols].apply(
@@ -31,3 +32,9 @@ model = DecisionTreeClassifier(criterion="gini").fit(train_x, train_y)
 
 yhat = model.predict(test_x)
 print("score:", metrics.accuracy_score(test_y, yhat))
+
+# test with your Data
+n = len(symptom_cols)
+prediction_array = mlb.transform([["cough","runny_nose","headache"]]) # example
+prediction = model.predict(prediction_array)
+print("model Answer:",prediction[0])
